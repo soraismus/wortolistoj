@@ -1,0 +1,36 @@
+I.T. Terminology or Jargon:
+---------------------------
+munge (or mung) [Mash Until No Good] - (v) 1. to make repeated changes whick individually may be reversible, yet which ultimately result in unintentional, irreversible destruction of large portions of the original item
+                                 2. to tie together systems and interfaces not designed to interoperate
+				 3. to process or filter raw data into another form
+				 4. to transform data in an undefined or unexplained manner
+				 5. to corrupt a record by erroneously merging in information from another record
+                                 
+munged password - (n) a password transformed from original plaintext by character solution
+
+data munging/wrangling - the process of manually converting or mapping data from one 'raw' form into another format
+
+address munging - the practice of disguising an email address to prevent automated extraction and spamming
+
+kludge (or kluge) - (n) 1. a quick, possibly temporary, inelegant, ad-hoc, non-extensible solution
+                        2. a system that comprises poorly interoperating components originally intended for other applications
+
+
+lint tool - (n) a utility that flags `lint` and other suspicious coding constructs
+lint - (n) a syntactic discrepancy; a syntactic construct not consistent with style guidelines or intuition
+
+fallthrough - (n) the characteristic of an unstructured switch whereby switch labels act as goto statements
+
+Duff's device
+loop unwinding
+loop unrolling
+
+
+mu-operator (aliases: minimization op'r, unbounded search op'r) - (n) returns the least nature number with a given property
+
+globbing [< global command] - (n) pattern matching in a Unix-like environment based on wildcard characters
+
+clobbering - (n) overwritting the contents of a file or computer memory, usually unintentionally
+
+standard list of metasyntactic variables:
+foo, bar, baz, qux, quux, quuux, ...
