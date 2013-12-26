@@ -34,3 +34,9 @@ clobbering - (n) overwritting the contents of a file or computer memory, usually
 
 standard list of metasyntactic variables:
 foo, bar, baz, qux, quux, quuux, ...
+
+thunk (suspension, suspended computation, delayed computation) - a parameterless closure created to prevent the evaluation of an expression until forced at a later time. In lazy langauges, thunks are created and forced implicitly; in eager languages, thunks can be created explicitly by wrapping an expression in a parameterless anonymous function
+
+trampoline - 1. a loop that iteratively invokes thunk-returning function (continuation-passing style); trampolines can be used to implement tail-recursive function calls in stack-oriented programming languages; 2. (java) the use of reflection to avoid inner classes (e.g., event listeners)
+
+fluent interface - an implementation of an object-oriented API that aims to provide more readable code, normally by using method cascading
