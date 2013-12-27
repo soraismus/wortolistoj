@@ -40,3 +40,5 @@ thunk (suspension, suspended computation, delayed computation) - a parameterless
 trampoline - 1. a loop that iteratively invokes thunk-returning function (continuation-passing style); trampolines can be used to implement tail-recursive function calls in stack-oriented programming languages; 2. (java) the use of reflection to avoid inner classes (e.g., event listeners)
 
 fluent interface - an implementation of an object-oriented API that aims to provide more readable code, normally by using method cascading
+
+chord - a set of keys to be pressed simulataneously
