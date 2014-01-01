@@ -43,3 +43,11 @@ fluent interface - an implementation of an object-oriented API that aims to prov
 
 chord - a set of keys to be pressed simulataneously
 combinator - a high-order function that uses only function application and earlier defined combinators to define a result from its arguments
+Y combinator
+I combinator
+K combinator
+S combinator
+thrush combinator - Txy = yz
+
+code kata - an exercise in programming that helps programmers hone their skills through practice and repetition
+Datensparsamkeit (< Grm, data parsimony/frugality) - 
