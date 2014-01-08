@@ -51,3 +51,7 @@ thrush combinator - Txy = yz
 
 code kata - an exercise in programming that helps programmers hone their skills through practice and repetition
 Datensparsamkeit (< Grm, data parsimony/frugality) - 
+
+magic string - an input that a programmer believes will never come externally and that activates otherwise hidden functionality
+test fixture (test context) - a fixed state used as a baseline for running tests (e.g., mock objects, mock data in a db)
+code coverage - a measure of the extent to which the source code of a program is tested by a particular test suite
