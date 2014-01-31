@@ -59,3 +59,8 @@ code coverage - a measure of the extent to which the source code of a program is
 alpha-conversion - e.g., (x) => x is alpha-equivalent to (y) => y;
 beta-reduction - e.g., ((n) => n * 2) (m) === m * 2;
 eta-conversion - e.g., (x) => f (x) is eta-equivalent to f whenever x does not appear free in f;
+
+angelic non-determinism - the kind of execution of a non-deterministic program by which all choices made favor termination
+demonic non-determinism - the kind of execution of a non-deterministic program by which all choices made favor non-termination
+regression - a software bug that cause a feature to malfunction after an event such as system patching or a change to DST
+performance regression - a software bug that causes misuse of resources like memory
