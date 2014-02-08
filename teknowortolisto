@@ -64,3 +64,4 @@ angelic non-determinism - the kind of execution of a non-deterministic program b
 demonic non-determinism - the kind of execution of a non-deterministic program by which all choices made favor non-termination
 regression - a software bug that cause a feature to malfunction after an event such as system patching or a change to DST
 performance regression - a software bug that causes misuse of resources like memory
+anaphoric macro - a type of programming macro that deliberately captures some form supplied to the macro which then may be referred to by an anaphor (e.g., Lisp's loop)
