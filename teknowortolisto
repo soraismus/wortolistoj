@@ -66,3 +66,42 @@ regression - a software bug that cause a feature to malfunction after an event s
 performance regression - a software bug that causes misuse of resources like memory
 anaphoric macro - a type of programming macro that deliberately captures some form supplied to the macro which then may be referred to by an anaphor (e.g., Lisp's loop)
 connascence - a relationship between elements of software in which changing one necessitates changing the others to maintain overall correctness
+
+null-coalescing operator - a binary operator that returns the second argument if the first is null
+Elvis operator - a null-coalescing variant of a ternary conditional operator (often represented as ?:)
+spaceship operator - a binary relational operator (<=>) that returns -1, 0, or 1 depending on the value of the left argument relative to that of the right.
+
+Tennet's correspondence principle - x should be equivalent to ((\i -> x)())
+call site - the location (line of code) where a function is called (or possibily called via dynamic dispatch); an abstract point of code that accepts arguments and possibly returns values
+
+dynamic dispatch - the process of selecting which implementation of a polymorphic operation to call at runtime
+decomposition (factoring) - the process by which a complex problem or system is broken down into parts that are easier to conceive and maintain
+
+code refactoring - the process by of restructuring existing computer code -- changing the factoring -- without changing its external behavior; typically, the application of a series of standardized micro-refactorings, which do not affect conformance to functional requirements
+
+functional requirement -
+nonfunctional requirement -
+
+three pounds of VAX - a coding prescript that advises that program design stem primarily from experience, intutition, and contextual pragmatism
+greenfield project - a project without constraints imposed by prior work
+user story - one or more sentences in the everyday or business language of the end user or user of a system that captures what a user does or needs to do as part of his or her job function; an informal statement of the requirment of an acceptance-test specification
+
+Xvfb (X virtual framebuffer) - a X11 display server that performs all graphical operations in memory without showing any screen output
+
+test fixture (test harness) - sets up and tears down test dependencies, such as database connections, etc.
+CRC card [Class, Responsibility, Collaboration] - a brainstorming tool used in OOP
+
+heisenberg - a software bug that seems to disappear or alter its behavior as attempts to study it are made
+yoda conditions - e.g., "if (52 == value)" rather than "if (value == 52)"
+hot potato - a colloquial pronunciation of 'http'
+
+SOLID principles:
+	1. single responsibility
+	2. open/closed - software entities should be open for extension but closed for modification; create stable interfaces areound points of predicted variation
+	3. Liskov substitution - replacing an instance of a type with an instance of a subtype should be permissible
+	4. interface segmentation - many client-specific interfaces are better than one general-purpose interface
+	5. dependency inversion - depend on abstractions, not on concrete instances
+Open/Closed principle - changing the behavior of a software entity (e.g., classes, modules, functions) should be possible without altering the source code
+Inteface-Segregation principle - 
+
+discriminated union (also tagged union, variant, or disjoint union) - a data structure used to hold a value that can take on different but fixed types
