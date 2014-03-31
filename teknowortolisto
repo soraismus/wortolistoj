@@ -118,3 +118,7 @@ kloc - a unit of code length such that 1 kloc = 1000 lines of code
 defect density - the number of errors per kloc
 
 nibble - a unit of measure such that 1 nibble = 4 bits
+
+fragile-base-class problem - a fundamental architectural problem of OOP characterized by base classes that are difficult to modify because of subclass dependencies
+
+hot-linking (inline linking) - the use of a linked object, often an image, from one site by a webpage belonging to a second site
