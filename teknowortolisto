@@ -105,3 +105,16 @@ Open/Closed principle - changing the behavior of a software entity (e.g., classe
 Inteface-Segregation principle - 
 
 discriminated union (also tagged union, variant, or disjoint union) - a data structure used to hold a value that can take on different but fixed types
+
+snake case - e.g., this_is_an_example
+camel case - e.g., thisIsAnExample
+Pascal case - e.g, ThisIsAnExample
+train case - e.g., This-is-an-example
+spinal case - e.g., this-is-an-example
+screaming snake case - e.g., THIS_IS_AN_EXAMPLE
+
+kloc - a unit of code length such that 1 kloc = 1000 lines of code
+
+defect density - the number of errors per kloc
+
+nibble - a unit of measure such that 1 nibble = 4 bits
