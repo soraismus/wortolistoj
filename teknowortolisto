@@ -124,3 +124,5 @@ fragile-base-class problem - a fundamental architectural problem of OOP characte
 hot-linking (inline linking) - the use of a linked object, often an image, from one site by a webpage belonging to a second site
 
 open recursion - dynamic recursion with late binding
+
+dunder - a double-underscore (e.g., '__foo' may be pronounced 'dunder foo')
