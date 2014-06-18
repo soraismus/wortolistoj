@@ -126,3 +126,7 @@ hot-linking (inline linking) - the use of a linked object, often an image, from 
 open recursion - dynamic recursion with late binding
 
 dunder - a double-underscore (e.g., '__foo' may be pronounced 'dunder foo')
+
+rubber duck debugging - debugging code by explaining one's code to oneself line by line
+
+COMEFROM - an obscure control-flow structure that can take the execution state from any arbitrary point in code
