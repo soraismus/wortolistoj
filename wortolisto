@@ -32,6 +32,7 @@ allothetic - relating to navigation models that are centered in people or places
 almacantar -
 amorphous solid -
 amphigaory - a nonsensical poem
+anacreontic - 1. (adj) jovial; festive; 2. (adj) pertaining to the Greek poet Anacreon and his manners; 3. (n) a short lyrical piece that is about love and wine
 anadiplosis - the repetition of the last word of a preceding clause or setence at the beginning of the next
 anankastic conditional - a grammatical construction of the form 'if you want X, you have to do Y'
 anaplastology [< Grk, ana, again, anew + plastos, made, formed] - a branch of medicine that pertains to rehabilitation with prosthetics
@@ -165,6 +166,8 @@ clitellum (pl: clitella) [< L, clitellum, packsaddle] - a swollen, glandular, sa
 clonk -
 clotted language - (n) [perhaps] blue language
 coadunation [< L ad + unare] - the union (as of dissimilar substances) in one body or mass
+cobordant - relating to manifolds of the same dimension such that their union is the complete boundary of a third manifold
+cobordism - the union of two cobordant manifolds
 codex - a manuscript volume, esp. of a classic work or the Scriptures; a book comprising multiple sheets of paper, vellum, or papyrus that has hand-written content and is usually stacked and bound by fixing one edge with thick covers; [developed by the Romans and gradually replaced scrolls]
 codicology - the scholarly study of codex bookbinding
 cofferdam - 1. A temporary watertight enclosure that is pumped dry to expose the bottom of a body of water so that construction, as of piers, may be undertaken.  2. A watertight chamber attached to the side of a ship to facilitate repairs below the water line.
@@ -183,6 +186,7 @@ confab -
 conglobate - 1. (a) formed into a ball; 2 (vt, vi) to collect into a ball
 conglobe - 1. to conglobate
 connascence - 1. the simultaneous birth of multiple things; 2. the act of growing together; 3. [software development] tight coupling
+consign - 1. to give over to the care of another; entrust; 2. to turn over permanently to another's charge or to a lasting condition; commit irrevocably; 3. to deliver (merchandise, e.g.) for custody or sale
 contronym - (e.g., 'cleave')
 conure - an informal class of parakeets that are found in the western hemisphere and that have long tails and small beaks
 coprolalia - 
@@ -313,6 +317,8 @@ founder effect -
 frabjous -
 fractious -
 Fremdschämen - embarrassment that is experienced when others obliviously act in an embarrassing manner
+frobnicate - to frob, twiddle, or tweak
+frobnitz - an unspecified physical object; a widget; a blackbox
 frumenty [or furmenty or furmity] [from Latin frumentum, < frui, to enjoy] - (n) a dish of wheat boiled in milk and usually sweetened and spiced
 fugacious - tending to disappear; fleeting
 full-throated -
@@ -379,6 +385,7 @@ homothety (homogeneous dilation) - a transformation of an affine space that pres
 horseshoe theory - a model of ideological typology such that the far right and far left are more similar to each other than to moderates
 Huginn [< Old Norse, thought] - one of a pair of ravens (the other being Muninn) that fly across Midgard and return with information for Odin
 hyperfine - extremely fine or thin, as in a spectral line split into two or more components
+hypergraph - a generalized graph of which an edge may connect any number of vertices
 hypocorism [< Grk, hypokorizesthai, to use child-talk] - 1. a name of endearment; a pet name; 2. a diminutive form of a name for greater intimacy; 3. the use of such names
 hypocycloid -
 iatrogenic - induced in a patient by a physician's activity, manner, or therapy
@@ -390,6 +397,7 @@ immoderacy -
 impostor syndrome - a psychological phenomenon in which people are unable to internalize their accomplishments; despite evidence of their competence, those with the syndrome remain convinced that they are frauds and do not deserce the success that they've achieved.
 imprimatur -
 incandescent -
+incidence structure - a hypergraph; a triple C = (P, L, I), where P is a set of points, L is a set of lines, and I (a subset of P * L) is the incidence relation
 incidental - 1. (a) occurring or likely to occur as an unpredictable or minor accompaniment; 2. (a) of a minor, casual, or subordinate nature
 incunabulum (in ku 'nab u lum) - an early printed book; an early version or stage; the cradle or birthplace of something
 indotherm -
@@ -463,6 +471,7 @@ longanimous - (adj) long-suffering; patient; showing self-control and restraint;
 lothario -
 lucubration -
 lug - a handle or projection used as a hold (e.g., for shoelacing) or support
+macaronic - 1. of or containing a mixture of vernacular words with Lain words or with vernacular words with latinate endings; 2. of or involving a mixture of two or more languages
 macrodome - a dome parallel to the longer lateral axis of an orthorhombic crystal
 maieutic -
 mainstay -
@@ -542,7 +551,6 @@ nurdle - a dab of toothpaste
 nutation - the nodding motion in the axis of rotation of a largely axially symmetric object; the change in the second Euler angle of a body
 obelus - the division sign
 obstreperous - 1. clamorous; noisily unruly or aggressive; 2. stubbornly resistant to control
-obstreperous - (a) 1. noisily and stubbornly defiant; 2. aggressively boisterous
 occlude -
 ocellated -
 octotych -
@@ -640,6 +648,7 @@ po-faced - having a serious expression on the face; too serious
 poikilotherm [< Gr, poikilos, varied] - an organism whose internal temperature varies considerably
 polyptych [<Gk ptyche, fold] - a panel painting that is divided into sections and that has one primary central panel
 poultice - cataplasm
+practicum - a school or college course, esp. one in a specialized field of study, that is designed to give students supervised practical application of previously studied theory
 precession - a change in the orientation of the rotational axis of a rotating body; change in the first Euler angle of a body
 prepuce - foreskin or a loose fold of skin covering the glans clitoridis
 prescript - 1. (n) something prescribed, especially a rule or regulation of conduct; 2. (a) having been established as a rule; prescribed
@@ -661,6 +670,7 @@ punt - the indentation at the bottom of a wine bottle
 purpureal -
 pusillanimous - lacking courage and resolution
 pussyvan - a flurry; a temper
+Pygmalion effect [Rosenthal effect] - the phenomenon whereby people perform better when greater expectation is placed upon them
 pyknick - 
 Pythagorean comma - the small interval existing in Pythagorean tuning between two enharmonically equivalent notes (about 23.46 cents, or roughly a quarter of a semitone); (the difference between a Pythagorean apotome and a Pythagorean limma)
 pyx - box or vessel in which coins or consecrated eucharist are kept
