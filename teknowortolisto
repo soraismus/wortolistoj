@@ -137,3 +137,13 @@ AGI - artificial general intelligence
 frobnicate - to manipulate, adjust, or twea
 
 Paamayim Nekudotayim (פעמיים נקודתיים) [< Hebrew, double colon] - the scope resolution operator (:) in PHP
+
+deforestation (fusion) - a program transformation to eliminate tree structures
+
+anamorphism (< Grk, ana, upwards) -
+catamorphis -
+hylomorphism - a recursive function corresponding to the composition of an anamorphism and a catamorphism
+
+semicoroutine - generator
+
+functional lens (functional reference) - a value that represents a correspondence between functions acting on a complex type and functions acting on one of the type's constituents; in essence, a value that acts as both an accessor and a mutator of a complex type's constituent; lens are composable
