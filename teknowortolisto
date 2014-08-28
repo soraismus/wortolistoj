@@ -147,3 +147,21 @@ hylomorphism - a recursive function corresponding to the composition of an anamo
 semicoroutine - generator
 
 functional lens (functional reference) - a value that represents a correspondence between functions acting on a complex type and functions acting on one of the type's constituents; in essence, a value that acts as both an accessor and a mutator of a complex type's constituent; lens are composable
+
+open recursion - a kind of dynamic dispatch of methods that can be overriddend by defieved classes or objects (`this` or `self`)
+closed recursion - static dispatch with early binding
+
+greenspunning - the ad hoc implementation of domain-independent language features in a language which lacks the feature; it can range from a simple one-line function or macro to the canonical description of GreenSpunning: a "half-assed implementation of half of CommonLisp''. 
+
+# http://c2.com/cgi-bin/wiki?PredicateDispatching
+predicate dispatching -
+
+referential transparency - the equivalence of an expression and its value; the replaceability of an expression by its value without side-effects
+
+inertial scrolling -
+
+Atwood's law - any application that can be written in javascript will eventually be written in javascript
+
+core dump - the recorded state of the working memory of a computer program at a specific time, generally when the program has terminated abnormally
+
+name mangling - a technique used to solve various problems caused by the need to resolve unique names for programming entities in many modern programming languages.
