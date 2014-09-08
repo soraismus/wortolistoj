@@ -165,3 +165,5 @@ Atwood's law - any application that can be written in javascript will eventually
 core dump - the recorded state of the working memory of a computer program at a specific time, generally when the program has terminated abnormally
 
 name mangling - a technique used to solve various problems caused by the need to resolve unique names for programming entities in many modern programming languages.
+
+expando - a property added to an object at run-time
