@@ -167,3 +167,14 @@ core dump - the recorded state of the working memory of a computer program at a 
 name mangling - a technique used to solve various problems caused by the need to resolve unique names for programming entities in many modern programming languages.
 
 expando - a property added to an object at run-time
+
+agilista - a practitioner of Agile Software Development who is fanatical about hewing to the Agile Manifesto
+
+reactive demand programming (RDP) - a new declarative model (conceived in 2010 by David Barbour) of programming with bi-directional, reactive dataflow, continuous demand-driven SideEffects to control a MultiAgentSystem; a fusion of object-oriented and eventless functional reactive programming, where message passing is replaced by an FRP control signal with a corresponding FRP response
+
+value object -
+data-transfer object -
+
+offside rule -
+
+sectioning - partial application of an infix operator (?)
