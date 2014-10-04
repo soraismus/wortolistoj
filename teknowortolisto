@@ -178,3 +178,5 @@ data-transfer object -
 offside rule -
 
 sectioning - partial application of an infix operator (?)
+
+domain sharding - Domain sharding is a technique used to accerate the time it takes for a webpage to render in a browser. Web browsers will only open a small number of parallel connections to each domain (~2-16). The theory is that if your webpage contains a lot of external assets from a single domain, you may experience a bottleneck while the browser wait for files to download before making the next request. Spreading these requests across multiple domains will allow more files to be downloaded in parallel, thus accelerating the page render time. Of course, each new domain incur the cost of a DNS lookup... so there is a balance to be struck.
