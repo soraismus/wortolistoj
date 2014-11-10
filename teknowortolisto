@@ -180,3 +180,25 @@ offside rule -
 sectioning - partial application of an infix operator (?)
 
 domain sharding - Domain sharding is a technique used to accerate the time it takes for a webpage to render in a browser. Web browsers will only open a small number of parallel connections to each domain (~2-16). The theory is that if your webpage contains a lot of external assets from a single domain, you may experience a bottleneck while the browser wait for files to download before making the next request. Spreading these requests across multiple domains will allow more files to be downloaded in parallel, thus accelerating the page render time. Of course, each new domain incur the cost of a DNS lookup... so there is a balance to be struck.
+
+sigil - a symbol (usually a prefix) attached to a variable name, showing the variable's datatype or scope
+twigil - a secondary sigil in Perl 6 to indicate scope
+earmuff convention - the use of earmuff circumfix sigils to indicate dynamic scope
+
+shell $ - not a sigil but a unary operator for lexical indirection (akin to the * indirection operator for pointers in C)
+
+stropping - a method of explicitly marking letter sequences as having a special property such as being a keyword or certain type of variable or storage location, and thus inhabiting a different namespace from ordinary names ("identifiers"), avoiding clashes. Stropping is not used in most modern languages – instead, keywords are reserved words and cannot be used as identifiers. Stropping allows the same letter sequence to be used both as a keyword and as an identifier; Algol 60 used apoSTROPhes to indicate stropping.
+
+hungarian notation - an identifier naming convention in computer programming, in which the name of a variable or function indicates its type or intended use
+systems hungarian notation - the prefix encodes the actual data type of the variable
+apps hungarian notation - hungarian notation such that identifier names indicate logical data types rather than physical data types
+
+upvalue - a variable closed over by a function
+
+Compile time function execution (or compile-time function evaluation, CTFE) is the ability of a compiler, that would normally compile a function to machine code and execute it at run-time, to execute the function at compile-time. 
+
+extent - a runtime (dynamic) aspect of a variable. Each binding of a variable to a value can have its own extent at runtime. The extent of the binding is the portion of the program's execution time during which the variable continues to refer to the same value or memory location. A running program may enter and leave a given extent many times, as in the case of a closure.
+
+funarg problem - the difficulty in implementing first-class functions (functions as first-class objects) in programming language implementations so as to use stack-based memory allocation of the functions.
+
+spaghetti stack (cactus stack; saguaro stack; in-tree) - an N-ary tree data structure in which child nodes have pointers to parent nodes (but not vice-versa)
