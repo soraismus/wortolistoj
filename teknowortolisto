@@ -202,3 +202,11 @@ extent - a runtime (dynamic) aspect of a variable. Each binding of a variable to
 funarg problem - the difficulty in implementing first-class functions (functions as first-class objects) in programming language implementations so as to use stack-based memory allocation of the functions.
 
 spaghetti stack (cactus stack; saguaro stack; in-tree) - an N-ary tree data structure in which child nodes have pointers to parent nodes (but not vice-versa)
+
+sidecar file (buddy file; connected file) - a file that stores data relating to another file, data of a kind unsupported by the format of the other file 
+container format (wrapper format) - a metafile format whose specification describes how different elements of data and metadata coexist in a file 
+file-system fork (file-system stream) - a set of data associated with a file-system object
+
+russian-doll caching
+
+reduction strategy - a strategy for a term-rewriting system to determine which reducible subterms (redexes) should be contracted
