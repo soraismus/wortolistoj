@@ -210,3 +210,7 @@ file-system fork (file-system stream) - a set of data associated with a file-sys
 russian-doll caching
 
 reduction strategy - a strategy for a term-rewriting system to determine which reducible subterms (redexes) should be contracted
+
+flipflop operator - one of the many Perlisms that sneaked into Ruby, but hasn’t caught on.  The flip flop operator is a range (..) operator used between two conditions in a conditional statement. The condition evaluates to false every time it is evaluated until the first part evaluates to true. Then it evaluates to true until the second part evaluates to true.
+
+lava flow - a problem in which computer code written under sub-optimal conditions is put into production and added to while still in a developmental state
