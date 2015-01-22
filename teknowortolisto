@@ -214,3 +214,9 @@ reduction strategy - a strategy for a term-rewriting system to determine which r
 flipflop operator - one of the many Perlisms that sneaked into Ruby, but hasn’t caught on.  The flip flop operator is a range (..) operator used between two conditions in a conditional statement. The condition evaluates to false every time it is evaluated until the first part evaluates to true. Then it evaluates to true until the second part evaluates to true.
 
 lava flow - a problem in which computer code written under sub-optimal conditions is put into production and added to while still in a developmental state
+
+airgap (air wall) - a network security measure that consists of ensuring that a secure computer network is physically isolated from unsecured networks
+
+boyscouting - 1. in software development, eliminating dead code, removing comments, standardizing format; 2. a comment indicating acts of boyscouting
+
+marshalling - the process of transforming the memory representation of an object to a data format suitable for storage or transmission
