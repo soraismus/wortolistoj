@@ -220,3 +220,8 @@ airgap (air wall) - a network security measure that consists of ensuring that a 
 boyscouting - 1. in software development, eliminating dead code, removing comments, standardizing format; 2. a comment indicating acts of boyscouting
 
 marshalling - the process of transforming the memory representation of an object to a data format suitable for storage or transmission
+
+inlining (inline exapansion) - a manual or compiler optimization that replaces a function call site with the body of the callee; similar to macro expansion
+inline caching - an optimization technique used by some language runtimes (first developed for Smalltalk);
+								 its purpose is to accelerate runtime-method binding by caching at the call site the results of previous method lookup;
+								 esp. useful for dynamnically typed languages for which most method binding happens at runtime and for which virtual-method tables can't be used
