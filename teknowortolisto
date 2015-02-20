@@ -225,3 +225,5 @@ inlining (inline exapansion) - a manual or compiler optimization that replaces a
 inline caching - an optimization technique used by some language runtimes (first developed for Smalltalk);
 								 its purpose is to accelerate runtime-method binding by caching at the call site the results of previous method lookup;
 								 esp. useful for dynamnically typed languages for which most method binding happens at runtime and for which virtual-method tables can't be used
+
+data remanence - the residual representation of digital data that remains even after attempts have been made to remove or erase the data
