@@ -91,7 +91,7 @@ Xvfb (X virtual framebuffer) - a X11 display server that performs all graphical 
 test fixture (test harness) - sets up and tears down test dependencies, such as database connections, etc.
 CRC card [Class, Responsibility, Collaboration] - a brainstorming tool used in OOP
 
-heisenberg - a software bug that seems to disappear or alter its behavior as attempts to study it are made
+heisenbug (heisenberg) - a software bug that seems to disappear or alter its behavior as attempts to study it are made
 yoda conditions - e.g., "if (52 == value)" rather than "if (value == 52)"
 hot potato - a colloquial pronunciation of 'http'
 
@@ -227,3 +227,23 @@ inline caching - an optimization technique used by some language runtimes (first
 								 esp. useful for dynamnically typed languages for which most method binding happens at runtime and for which virtual-method tables can't be used
 
 data remanence - the residual representation of digital data that remains even after attempts have been made to remove or erase the data
+
+dogfooding - advocating programs, software, etc. that one uses for oneself (and that one probably has developed)
+
+TUI (text-based user interface) - a retronym coined after the emergence of GUIs
+
+sequence point - a point in a computer program's execution at which it is guaranteed that all side effects of previous evaluations will have been performed and no side effects from subsequent evaluations have yet to be performed
+
+comma operator - in C and C++, a binary operator that evaluates its first operand and discards the result and then evaluates the second operand and returns this value
+(like Haskell `>>`)
+
+don't-care term - in digital logic, an sequence (a series of bits) as an input to a function but for which the function output does not matter
+can't-happen term - an input that is known never to occur
+don't-care conditions: don't-care term and can't-happen term
+
+tetrade - AKA nibble, half-byte, semi-octet, quadbit, quartet
+
+action at a distance - behavior in one part of a program varying based on operations in another part of a program
+object orgy - insufficient encapsulation of an object that allows unrestricted access to its internals and thus leading to unmaintainable complexity
+
+Kryder's law (analagous to Moore's law) - pertains to the accelerating rate of hard-drive capacity
